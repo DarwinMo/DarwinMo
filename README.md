@@ -3,8 +3,7 @@
 ## 👤 About Me
 My name is **Mohamed Abdessalame**.  
 🎓 Computer Science Engineering major
-🎓 Student at **ENSICAEN** (École Nationale Supérieure d’Ingénieurs de Caen).  
-📚 Double degree in the **Grande École Program** at **EM Normandie Business School**.  
+🎓 Student at **ENSICAEN** (École Nationale Supérieure d’Ingénieurs de Caen).    
 
 ## 💻 Technical Skills
 - **Programming Languages**: C / C++, Java, Python, JavaScript  
